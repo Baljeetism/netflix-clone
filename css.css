@@ -1,0 +1,236 @@
+nav img {
+    height: 45px;
+    width:166px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 0px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.language{
+    background-color: transparent;
+    padding: 10px 17px;
+    color: aliceblue;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    border: 1px white solid;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.sign{
+    background-color: #e50914;
+    color: aliceblue;
+    padding: 10px 17px;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    border: none;
+    border-radius: 5px;
+}
+.main {
+    
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 100px;
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 160px;
+    border-bottom: 10px grey solid;
+    
+}
+
+.bgmi {
+    
+    background: url(https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png);
+
+    
+    background-size: cover;
+
+}
+
+.h1 {
+    
+    font-size: 200%;
+    margin-bottom: -75px;
+}
+.h4{
+    margin-bottom: -50px;
+    font-size: 30px;
+}
+.h5{
+    /* margin-bottom: -8px; */
+    font-size: 20px;
+}
+.email{
+    width: 500px;
+    height: 70px;
+    padding: 0px 10px 0px;
+    border:none;
+    
+
+}
+.button{
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: aliceblue;
+    width: 250px;
+    height: 70px;
+    padding: 2px 10px 7px;
+    background-color: #e50914;
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+    border: none;
+
+}
+.pubg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    background-image: url(https://wallpapercave.com/wp/DTvUQor.jpg);
+    color: aliceblue;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 70px;
+    border-bottom: 10px grey solid;
+}
+.pubg img{
+    height: 350px;
+    width: 530px;
+}
+.pubg h1{
+
+    
+    font-size: 60px;
+    
+        
+    
+}
+.csgo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    background-image: url(https://wallpapercave.com/wp/DTvUQor.jpg);
+    color: aliceblue;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 70px;
+    border-bottom: 10px grey solid;
+    padding-right: 70px ;
+}
+.csgo img{
+    height: 380px;
+    width: 500px;
+}
+.csgo h1{
+
+    
+    font-size: 60px;
+    
+        
+    
+}
+.fortnite{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    background-image: url(https://wallpapercave.com/wp/DTvUQor.jpg);
+    color: aliceblue;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 70px;
+    border-bottom: 10px grey solid;
+    padding-right: 70px ;
+}
+.fortnite img{
+    height: 420px;
+    width: 550px;
+}
+.fortnite h1{
+
+    
+    font-size: 60px;
+}
+.road{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    background-image: url(https://wallpapercave.com/wp/DTvUQor.jpg);
+    color: aliceblue;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 70px;
+    border-bottom: 10px grey solid;
+    padding-right: 70px ;
+
+}
+.road img{
+    margin-top: 50px;
+    height: 380px;
+    width: 500px;
+}
+.road h1{
+
+    
+    font-size: 60px;
+   
+}
+footer{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.text{
+    margin-top: 100px;
+    text-align: start;
+}
+video{
+    height: 100px;
+    width: 100px;
+}
